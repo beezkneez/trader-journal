@@ -1,0 +1,51 @@
+{
+  "2025-09-08": {
+    "morning": {
+      "sleep_quality": 7,
+      "emotional_state": "Calm & Focused",
+      "post_night_shift": false,
+      "checked_news": false,
+      "triggers_present": "",
+      "grateful_for": "",
+      "daily_goal": "",
+      "trading_process": "",
+      "morning_screenshots": []
+    },
+    "trading": {
+      "pnl": 70.0,
+      "process_grade": "A",
+      "grade_reasoning": "",
+      "general_comments": "",
+      "screenshot_notes": "",
+      "rule_compliance": {
+        "rule_0": true
+      },
+      "what_could_improve": "",
+      "tomorrow_focus": "",
+      "trading_screenshots": [
+        "screenshots/2025-09-08_trading_Screenshot 2025-08-29 163511.png",
+        "screenshots/2025-09-08_trading_Screenshot 2025-08-29 155825.png"
+      ]
+    },
+    "evening": {},
+    "rules": [
+      "New rule - click to edit"
+    ]
+  },
+  "2025-09-05": {
+    "morning": {},
+    "trading": {
+      "pnl": 30.0,
+      "process_grade": "A",
+      "grade_reasoning": "",
+      "general_comments": "",
+      "screenshot_notes": "",
+      "rule_compliance": {},
+      "what_could_improve": "",
+      "tomorrow_focus": "",
+      "trading_screenshots": []
+    },
+    "evening": {},
+    "rules": []
+  }
+}
